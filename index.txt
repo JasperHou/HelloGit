@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ssssss
 
 s  is s form masterjack index
@@ -7,3 +8,6 @@ s is s a inde file.QQQQQ
 used for stash files. This is the file for the the login branch.Q
 test fir sssss used for stash files. This is the file for the the login branch.Q
 
+=======
+test fir sssss used for stash files. This is the file for the the login branch.Q
+>>>>>>> Stashed changes
