@@ -1,2 +1,4 @@
 qqqQwqThisi sthe view file
 wewnThisi sthe view file
+Thisi sthe view file
+si s the view controller.
